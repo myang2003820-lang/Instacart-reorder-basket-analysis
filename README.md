@@ -41,6 +41,8 @@ This project analyzes customer ordering behavior, category performance, reorder 
 
 ## Selected Visuals
 
+#### Top Co-purchased Aisle Pairs
+![Top Co-purchased Aisle Pairs](figures/co-purchase_patterns.png)
 ### Order Distribution by Hour of Day
 ![Order Distribution by Hour of Day](figures/order_distribution_by_hour_powerbi.png)
 ### Order Distribution by Day of Week
