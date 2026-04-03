@@ -46,4 +46,4 @@ This project analyzes customer ordering behavior, category performance, reorder 
 ### Order Distribution by Day of Week
 ![Order Distribution by Day of Week](figures/order_distribution_by_day_powerbi.png)
 ### Basket Size Distribution
-(![Basket Size Distribution](figures/Basket%20Size.png))
+![Basket Size Distribution](figures/Basket%20Size.png)
