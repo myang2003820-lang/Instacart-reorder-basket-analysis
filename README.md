@@ -39,9 +39,7 @@ This project analyzes customer ordering behavior, category performance, reorder 
 - Create bundle recommendations for frequently co-purchased aisle pairs.
 - Leverage fresh produce as a gateway category for cross-selling.
 
-## Project Structure
-```text
-notebooks/
-sql/
-figures/
-README.md
+## Selected Visuals
+
+### Order Distribution by Hour of Day
+![Order Distribution by Hour of Day](figures/order_distribution_by_hour_powerbi.png)
