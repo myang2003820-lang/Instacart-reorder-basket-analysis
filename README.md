@@ -1,4 +1,4 @@
-# Instacart Customer Reorder and Basket Analysis
+## 🛒 Instacart Customer Reorder and Basket Analysis
 
 ## Overview
 This project analyzes customer ordering behavior, category performance, reorder patterns, and basket structure using Instacart transactional data.
