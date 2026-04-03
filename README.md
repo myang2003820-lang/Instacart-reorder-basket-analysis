@@ -2,7 +2,9 @@
 
 ## Overview
 This project analyzes customer ordering behavior, category performance, reorder patterns, and basket structure using Instacart transactional data.
+
 https://medium.com/@myang2003820/instacart-customer-behavior-analysis-b67f5886ebcb?postPublishedType=initial
+
 ## Business Questions
 - When do customers place orders?
 - Which categories are the most purchased?
